@@ -16,12 +16,12 @@ export default function Header() {
 					>
 						HOME
 					</NavLink>
-					{/* <NavLink
+					<NavLink
 						to={'/portfolio-react/project'}
 						activeClassName="active"
 					>
 						PROJECT
-					</NavLink> */}
+					</NavLink>
 					<NavLink
 						to={'/portfolio-react/about'}
 						activeClassName="active"

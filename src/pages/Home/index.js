@@ -46,7 +46,7 @@ export default function Home() {
 								<Icon title={'resume'} />
 							</div>
 							<p className="observation">
-								*Navigate through menus to find more about me!--
+								*Navigate through menus to find more about me!
 							</p>
 						</div>
 						<div className="rightSide">

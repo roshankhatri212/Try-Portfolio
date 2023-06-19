@@ -3,7 +3,7 @@ import { Routes, Route, useLocation } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
 import About from './pages/About';
-// import ProjectList from './pages/Projects';
+import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import Notfound from './pages/NotFound';
 import { AnimatePresence } from 'framer-motion';
@@ -19,7 +19,7 @@ const App = () => {
 					<Route path="/portfolio-react/home" element={<Home />} />
 					<Route path="/portfolio-react/about" element={<About />} />
 					
-					{/* <Route path="/portfolio-react/projects" element={<ProjectList />} /> */}
+					<Route path="/portfolio-react/projects" element={<Projects />} />
 					
 					<Route
 						path="/portfolio-react/contact"
