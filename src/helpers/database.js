@@ -21,19 +21,11 @@ export const works = [
 		end: '',
 		location: '',
 		summary:
-			'Financial analysis, forecasts, and modeling of past and future performance to support capital raising, including process automation, valuation, pitch, and negotiations.',
+			'A website for nursery using html and css',
 		description:
-			'Company X is a micromarket start-up in the retail industry',
+			'',
 		activities: [
-			'Automation of the financial statements directly from the accounting entries according to the chart of accounts.',
-			'Financial performance analysis based on the reorganized financial statements, including KPIs and metrics.',
-			'Financial forecasts, including market and macroeconomic research.',
-			'Review and analysis of the company’s investment plan to enhance strategic decision-making.',
-			'Development of a valuation model and calculation of the enterprise valuation using DCF.',
-			'Final financial modeling and analyses, including sensitivity analysis, IRR, and payback time.',
-			'Benchmark analysis considering valuation multiples and metrics traded in similar deals.',
-			'Pitch presentation script and pitch deck development.',
-			'Assistance in investor matchmaking, negotiations, deals, and due diligence.',
+			'',
 		],
 	},
 	{
